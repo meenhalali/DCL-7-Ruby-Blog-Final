@@ -17,9 +17,13 @@ Things you may want to cover:
 * Database initialization
 
 * How to run the test suite
+  
 	#if on windows
-	run "rails tailwindcss:build" 
+
+	run "rails tailwindcss:build"
+
 	run "rails assets:precompile"
+
 	run "rails server "
 
 * Services (job queues, cache servers, search engines, etc.)
