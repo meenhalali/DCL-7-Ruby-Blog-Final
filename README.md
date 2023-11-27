@@ -6,7 +6,8 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+ 3.2.2-1
+  
 * System dependencies
 
 * Configuration
@@ -25,4 +26,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+*Version files of other things used
+SQLite version 3.44.0.
