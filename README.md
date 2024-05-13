@@ -1,9 +1,5 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Please check the video files in the "Video files" folder to see functionality of the site easier. 
 
 * Ruby version
  3.2.2-1
