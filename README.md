@@ -1,4 +1,5 @@
 # README
+# A Ruby Travel blog that works with DCL 6. 
 Please check the video files in the "Video files" folder to see functionality of the site easier. 
 
 * Ruby version
